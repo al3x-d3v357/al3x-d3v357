@@ -1,12 +1,12 @@
 <div align="center">
 
-# OlA¡, eu sou Alex Sandro ðY‘‹
-### ðYZ® 3D Artist & Technical Artist | ðY’» Fullstack & Automation Developer | ðYs€ Game Dev
+# Olá, eu sou Alex Sandro 👋
+### 🎮 3D Artist & Technical Artist | 💻 Fullstack & Automation Developer | 🚀 Game Dev
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Desenvolvedor+Fullstack+%26+Automacao;3D+Generalist+%26+Technical+Artist+(Blender%2C+UE5%2C+Unity);Criador+de+Extensoes+Manifest+V3+%26+Ferramentas+Python;Apaixonado+por+criar+solucoes+e+tecnologia+inovadora)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Criando_Projetos_IncrA­veis-00c853?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Criando_Projetos_Incríveis-00c853?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Foco-3D_Art_|_GameDev_|_Fullstack-0070f3?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -14,22 +14,22 @@
 
 </div>
 
-## ðY‘¨a€ðY’» Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor, artista 3D e entusiasta de automaA§A£o. Tenho paixA£o por transformar ideias complexas em ferramentas funcionais, elegantes e de alto impacto a€” desde **pipelines 3D completos, shaders e scripts para Blender, Unity e Unreal Engine 5**, atA© **aplicaA§Aµes Web modernas em React 19/Tailwind, extensAµes de navegador avanA§adas (Manifest V3) e automaA§Aµes desktop com VisA£o Computacional (OpenCV/Python)**.
+Sou desenvolvedor, artista 3D e entusiasta de automação. Tenho paixão por transformar ideias complexas em ferramentas funcionais, elegantes e de alto impacto — desde **pipelines 3D completos, shaders e scripts para Blender, Unity e Unreal Engine 5**, até **aplicações Web modernas em React 19/Tailwind, extensões de navegador avançadas (Manifest V3) e automações desktop com Visão Computacional (OpenCV/Python)**.
 
-- ðYZ¨ **3D & Game Art:** Modelagem 3D, texturizaA§A£o, UV mapping procedural, rigging de personagens e animaA§A£o (Blender, Unity, UE5, Godot).
-- as™i¸ **AutomaA§A£o & Desktop:** Ferramentas personalizadas em Python, gravadores de macro com visA£o computacional (OpenCV/PyAutoGUI) e integraA§A£o de controladores.
-- ðYŒ **Web & ExtensAµes:** AplicaA§Aµes reativas com React 19, Vite, Tailwind CSS v4 e extensAµes para Chrome/Edge focadas em produtividade, automaA§A£o de APIs e SEO.
-- ðY¤ **Impacto Social:** Desenvolvimento de plataformas e ferramentas de acessibilidade e cadastro social (One By One / SG FamA­lias).
+- 🎨 **3D & Game Art:** Modelagem 3D, texturização, UV mapping procedural, rigging de personagens e animação (Blender, Unity, UE5, Godot).
+- ⚙️ **Automação & Desktop:** Ferramentas personalizadas em Python, gravadores de macro com visão computacional (OpenCV/PyAutoGUI) e integração de controladores.
+- 🌐 **Web & Extensões:** Aplicações reativas com React 19, Vite, Tailwind CSS v4 e extensões para Chrome/Edge focadas em produtividade, automação de APIs e SEO.
+- 🤝 **Impacto Social:** Desenvolvimento de plataformas e ferramentas de acessibilidade e cadastro social (One By One / SG Famílias).
 
 ---
 
-## ðY› i¸ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### ðYZ¨ 3D, Game Engines & Design
+### 🎨 3D, Game Engines & Design
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -37,7 +37,7 @@ Sou desenvolvedor, artista 3D e entusiasta de automaA§A£o. Tenho paixA£o por 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-### ðY’» Linguagens & Frameworks
+### 💻 Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,14 +47,14 @@ Sou desenvolvedor, artista 3D e entusiasta de automaA§A£o. Tenho paixA£o por 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### as™i¸ AutomaA§A£o, Desktop & VisA£o Computacional
+### ⚙️ Automação, Desktop & Visão Computacional
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### ðY“± Mobile & Outros
+### 📱 Mobile & Outros
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -65,21 +65,21 @@ Sou desenvolvedor, artista 3D e entusiasta de automaA§A£o. Tenho paixA£o por 
 
 ---
 
-## ðYŒY Principais Projetos & Destaques
+## 🌟 Principais Projetos & Destaques
 
-| Projeto | Categoria | DescriA§A£o | Stack |
+| Projeto | Categoria | Descrição | Stack |
 | :--- | :--- | :--- | :--- |
-| **[uvmapPro](https://github.com/al3x-d3v357/asass_uvmapPro)** | ðY—ºi¸ 3D Tech Tool | Gerador inteligente de linhas de corte (Seams) e mapeamento UV com viewport interativo Three.js. | Python, Streamlit, Three.js, WebGL |
-| **[Blender Plugins & Tools](https://github.com/al3x-d3v357/plugins_blender)** | ðYZ¬ 3D Pipeline | AutomaA§A£o de rigs Mixamo, combinaA§A£o de tracks NLA e exportaA§A£o em lote de animaA§Aµes FBX. | Python, Blender API |
-| **[Macro Recorder Enterprise](https://github.com/al3x-d3v357/macroasass)** | ðY¤– AutomaA§A£o Desktop | GravaA§A£o de macros e automaA§A£o visual com reconhecimento de imagem e interface moderna. | Python, CustomTkinter, OpenCV, PyAutoGUI |
-| **[Yakisoba Play](https://github.com/al3x-d3v357/web_anime)** | ðY¿ Web Fullstack | Plataforma moderna de catA¡logo e streaming responsivo com gerenciamento de biblioteca. | React 19, Vite, Tailwind CSS v4, JS |
-| **[SEO Helper Pro](https://github.com/al3x-d3v357/asass_get_titulos)** | ðY“ˆ Chrome Ext. V3 | ExtensA£o de IA e scripts de retenA§A£o para YouTube e TikTok com guard de conformidade. | JavaScript, Manifest V3, CSS3 |
-| **[One By One API Direct](https://github.com/al3x-d3v357/asass_extesao)** | ðY¤ AutomaA§A£o Social | ExtensA£o para sincronizaA§A£o e envio direto de dados e documentos A  API SG FamA­lias. | JavaScript, Chrome V3, Rest APIs |
-| **[Projetos UE5 / Unity / Godot](https://github.com/al3x-d3v357/projetos_UE5)** | ðYZ® Game Development | Experimentos de gameplay, fA­sica de veA­culos, shaders estilizados e cenA¡rios 3D. | UE5, Unity (C#), Godot (GDScript) |
+| **[uvmapPro](https://github.com/al3x-d3v357/asass_uvmapPro)** | 🗺️ 3D Tech Tool | Gerador inteligente de linhas de corte (Seams) e mapeamento UV com viewport interativo Three.js. | Python, Streamlit, Three.js, WebGL |
+| **[Blender Plugins & Tools](https://github.com/al3x-d3v357/plugins_blender)** | 🎭 3D Pipeline | Automação de rigs Mixamo, combinação de tracks NLA e exportação em lote de animações FBX. | Python, Blender API |
+| **[Macro Recorder Enterprise](https://github.com/al3x-d3v357/macroasass)** | 🤖 Automação Desktop | Gravação de macros e automação visual com reconhecimento de imagem e interface moderna. | Python, CustomTkinter, OpenCV, PyAutoGUI |
+| **[Yakisoba Play](https://github.com/al3x-d3v357/web_anime)** | 🍿 Web Fullstack | Plataforma moderna de catálogo e streaming responsivo com gerenciamento de biblioteca. | React 19, Vite, Tailwind CSS v4, JS |
+| **[SEO Helper Pro](https://github.com/al3x-d3v357/asass_get_titulos)** | 📈 Chrome Ext. V3 | Extensão de IA e scripts de retenção para YouTube e TikTok com guard de conformidade. | JavaScript, Manifest V3, CSS3 |
+| **[One By One API Direct](https://github.com/al3x-d3v357/asass_extesao)** | 🤝 Automação Social | Extensão para sincronização e envio direto de dados e documentos à API SG Famílias. | JavaScript, Chrome V3, Rest APIs |
+| **[Projetos UE5 / Unity / Godot](https://github.com/al3x-d3v357/projetos_UE5)** | 🎮 Game Development | Experimentos de gameplay, física de veículos, shaders estilizados e cenários 3D. | UE5, Unity (C#), Godot (GDScript) |
 
 ---
 
-## ðY“S EstatA­sticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -91,7 +91,5 @@ Sou desenvolvedor, artista 3D e entusiasta de automaA§A£o. Tenho paixA£o por 
 ---
 
 <div align="center">
-  <sub>ConstruA­do com dedicaA§A£o por <b>Alex Sandro (@al3x-d3v357)</b> ðYs€</sub>
+  <sub>Construído com dedicação por <b>Alex Sandro (@al3x-d3v357)</b> 🚀</sub>
 </div>
-
-
